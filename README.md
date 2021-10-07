@@ -3,5 +3,6 @@ Student of Electrical Engineering, currently specializing in Computer Science an
 Strong interests include:
 - Graphics programming
 - Parallel programming and GPGPU
+- Physics simulations
 
 Here, I mostly dump my personal projects that I use to expereiment and learn on :>
